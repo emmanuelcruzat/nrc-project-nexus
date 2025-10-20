@@ -30,9 +30,6 @@
         .footer-left img {
             height: 50px; /* Adjust logo size */
             margin-right: 15px;
-            /* Using a placeholder logo. Replace with your logo URL */
-            background-color: #555;
-            border-radius: 50%;
         }
 
         .footer-info h2 {

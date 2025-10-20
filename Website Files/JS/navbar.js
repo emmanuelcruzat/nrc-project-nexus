@@ -1,6 +1,6 @@
 // Load the navbar from an external HTML file
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("NavBar.html")
+  fetch("/Website Files/Universal/NavBar.html")
     .then(response => response.text())
     .then(data => {
       document.getElementById("navbar-placeholder").innerHTML = data;

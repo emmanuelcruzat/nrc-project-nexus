@@ -83,7 +83,7 @@ nav ul li a.active {
   display: block;
 }
 
-/* Hero Section 
+/* Hero Section */
 .hero {
   height: 100vh;
   background: url('rocket-background.jpg') no-repeat center center/cover;
@@ -91,7 +91,7 @@ nav ul li a.active {
   align-items: center;
   justify-content: center;
   text-align: center;
-}*/
+}
 
 .hero::after {
   content: "";
@@ -111,7 +111,7 @@ nav ul li a.active {
   font-weight: bold;
 }*/
 .hero {
-      background-image: url('pictures/rocket-launch-sunset-stockcake.jpg');
+      background-image: url('../pictures/rocket-launch-sunset-stockcake.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
